@@ -24,7 +24,7 @@ public class QualifierApplication {
                     .uri("https://bfhldevapigw.healthrx.co.in/hiring/generateWebhook/JAVA")
                     .bodyValue(java.util.Map.of(
                             "name", "Dhanush M K",
-                            "regNo", "REG21047",
+                            "regNo", "21ECE047",
                             "email", "dhanushmk0001@gmail.com"
                     ))
                     .retrieve()
